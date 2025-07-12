@@ -33,7 +33,8 @@ This configuration enables more effective energy management, delays degradation,
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/nava-set-longevity-model.git
+git clone
+https://github.com/RZN-4-All/nava-set-longevity-model.git
 ```
 
 2. Run simulations:
